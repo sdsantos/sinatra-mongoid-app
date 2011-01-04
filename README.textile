@@ -1,4 +1,4 @@
-﻿h1. Sinatra Mongoid App
+﻿h1.Sinatra Mongoid App
 
 A template "Sinatra":http://www.sinatrarb.com application configured for using a MongoDB database through "Mongoid":http://mongoid.org.
 
