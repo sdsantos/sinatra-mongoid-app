@@ -1,0 +1,7 @@
+h1. Sinatra Mongoid App
+
+A template "Sinatra":http://www.sinatrarb.com application configured for using a MongoDB database through "Mongoid":http://mongoid.org.
+
+It works out of the box with Heroku and the "MongoHQ add-on":http://addons.heroku.com/mongohq.
+
+by "Sérgio Santos":http://sergiosantos.info
